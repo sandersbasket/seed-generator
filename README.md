@@ -5,3 +5,5 @@ Requirements:
 - npm i bip39
 - npm i fs
 - npm i colors
+
+the code is very old, so don't judge strictly for config in txt)
